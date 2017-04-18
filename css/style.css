@@ -175,7 +175,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/pawnee-co.jpg) no-repeat center center;
+	background: url(../img/pawnee-keota.jpg) no-repeat center center;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -242,7 +242,7 @@ header .intro-text {
 	padding: 0 0 60px 0;
 }
 #join-us .section-title {
-	background: #444 url(../img/ludlow-co.jpg) center center no-repeat fixed;
+	background: #444 url(../img/pawnee-weather-vane.jpg) center center no-repeat fixed;
 	background-size: cover;
 }
 #join-us .section-title h2 {
