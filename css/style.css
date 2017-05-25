@@ -210,6 +210,9 @@ header .intro-text {
 	padding-bottom: 200px;
 	text-align: center;
 }
+.main-logo {
+	width: 60%;
+}
 /* About Section */
 #about {
 	padding: 8em 0 4em 0;
